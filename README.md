@@ -1,2 +1,13 @@
-# mzxknox-ai-tools
-Learning to build tools with AI as a beginner.
+# AI 小工具集合
+这是我学 AI 时整理的一个小仓库，里面放的都是简单能跑的小工具和示例，
+适合刚开始接触 AI 的朋友照着试一遍。内容不多，我会慢慢往里加。
+
+## 怎么运行
+
+电脑上装好 Python 后，在仓库目录里执行：
+
+```bash
+python examples/hello_ai.py
+```
+## 许可证
+MIT
